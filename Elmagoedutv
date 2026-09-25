@@ -1,0 +1,160 @@
+#EXTM3U 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#PLAYLIST: CABLE RED 
+
+#-----------CATEGORIA NACIONALES------#
+
+#EXTINF:-1,AMERICA TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/americatv-nuevo/playlist.m3u8
+
+#EXTINF: 23, latina tv
+#EXTGRP:GENERAL
+#EXTVLCOPT:network-caching=1000
+https://media.antpathads.com/www/images/6a88e802c933a1787357186.mp4
+
+#EXTINF:-1,PANAMERICANA TV HD PERU 
+#EXTGRP:NACIONAL
+https://cablered.iptvperu.tv:1936/transcoder/panamerica_local.stream/chunks.m3u8
+
+#EXTINF:-1, WILLAX TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/willax-res.stream/playlist.m3u8
+
+#EXTINF:-1, GLOBAL TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
+
+#EXTINF:-1,TV PERU HD  
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+
+#EXTINF:-1,EXITOSA TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/Exitosa_new/playlist.m3u8
+
+#EXTINF: 23, atv sur
+#EXTGRP:GENERAL
+#EXTVLCOPT:network-caching=1000
+https://live-evg16.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.m3u8
+
+#EXTINF:-1, ATV PLUS HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/atvplus.stream/playlist.m3u8
+
+#EXTINF:-1, RPP NOTICIAS TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/rpp_new/playlist.m3u8
+
+#EXTINF:24,PBO
+#EXTGRP:GENERAL
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+
+#EXTINF:-1,bethel
+#EXTGRP:RELIGIOSOS
+https://cablered.iptvperu.tv:1936/cablered/bethel_new/playlist.m3u8
+
+#EXTINF:-1,enlace
+#EXTGRP:RELIGIOSOS
+https://cablered.iptvperu.tv:1936/cablered/enlace_new/playlist.m3u8
+
+
+
+
+#-----------CATEGORIA PERU REGIONES-------#
+
+
+#EXTINF:-1 , CLABE MIX HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/cable-mix/playlist.m3u8
+#EXTINF:-1 , UNICENTRO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
+#EXTINF:-1 , TELECENTRO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/telecentro.stream/playlist.m3u8
+#EXTINF:-1 , IMPERIAL TV  HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/Cablered/imperialtv/playlist.m3u8
+#EXTINF:-1 , ODTV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/ODTV2.stream/playlist.m3u8
+#EXTINF:-1 , COSITEL HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/cositel_new/playlist.m3u8
+#EXTINF:-1 , CONECTA TV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/Conecta2_tv/playlist.m3u8
+#EXTINF:-1 , ODTV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/ODTV.stream/playlist.m3u8
+#EXTINF:-1 , PERUCHANNEL HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/peruchannel.stream/playlist.m3u8
+#EXTINF:-1 , MILENIAL TV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/MilenialTV/playlist.m3u8
+#EXTINF:-1 , SABOR MIX HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/sabormix/playlist.m3u8
+#EXTINF:-1 , ASIRI TV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/Asiri-TV/playlist.m3u8
+#EXTINF:-1 , GAMARRA TV HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/gamarra_channel/playlist.m3u8
+#EXTINF:-1 , TELESTAR HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/telestar/playlist.m3u8
+#EXTINF:-1 , CANAL 21-HYO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/canal21.stream/playlist.m3u8
+#EXTINF:-1 , UNITEL-HYO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/unitel_new/playlist.m3u8
+#EXTINF:-1 , SRT HD PERU 
+#EXTGRP: PERU REGIONES
+ttps://cablered.iptvperu.tv:1936/cablered/SRT_cadena/playlist.m3u8
+#EXTINF:-1 , HISPANOAMERICA-HYO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/hispanoamerica.stream/playlist.m3u8
+#EXTINF:-1 , LHA-HYO HD PERU 
+#EXTGRP: PERU REGIONES
+https://cablered.iptvperu.tv:1936/cablered/lhatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telelima.pe"  tvg-logo="https://telelima.pe/img/logo.png" group-title="NOVELA",Telelima
+https://cablered.iptvperu.tv:1936/cablered/Telelima/playlist.m3u8
+
+#EXTINF:-1, Z CREO TV 
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/playlist.m3u8
+#EXTINF:-1, TOP LATINO
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+#EXTINF:-1, OZONO TV 
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+
+
+#-----------CATEGORIA DEPORTE--------/
+
+#EXTINF:-1  tvg-id="L1Max.pe" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTES", Liga 1 max HD 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="DEPORTES", Liga 1 HD
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/Liga1_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTES" , Ovacion TV (720p) 
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u
+
+
+
+
